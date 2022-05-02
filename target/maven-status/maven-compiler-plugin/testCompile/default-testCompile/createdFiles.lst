@@ -1,0 +1,16 @@
+com\demoOpencart\pageObjects\CheckOutPage.class
+com\demoOpencart\testCases\TC_LoginDDT_002.class
+com\demoOpencart\pageObjects\RegistrationPage.class
+com\demoOpencart\pageObjects\HomePage.class
+com\demoOpencart\testCases\TC_WishListTest.class
+com\demoOpencart\pageObjects\LoginPage.class
+com\demoOpencart\testCases\BaseClass.class
+com\demoOpencart\testCases\TC_LoginTest_001.class
+com\demoOpencart\testCases\TC_OrderProductTest.class
+com\demoOpencart\pageObjects\LaptopsAndNoteBooksPage.class
+com\demoOpencart\utilities\Reporting.class
+com\demoOpencart\utilities\XLUtility.class
+com\demoOpencart\pageObjects\DesktopsPage.class
+com\demoOpencart\testCases\TC_SortingTest.class
+com\demoOpencart\testCases\TC_RegistrationTest.class
+com\demoOpencart\utilities\ReadConfig.class

@@ -1,0 +1,788 @@
+2022-04-19 00:11:44,071 - demoOpencart -INFO - Login test passed
+2022-04-19 00:41:38,804 - demoOpencart -INFO - Login test passed
+2022-04-19 00:50:03,068 - demoOpencart -INFO - Login test passed
+2022-04-19 00:51:35,764 - demoOpencart -INFO - Login test passed
+2022-04-19 22:53:22,128 - demoOpencart -INFO - Login test passed
+2022-04-20 19:14:37,960 - demoOpencart -INFO - Login test passed
+2022-04-20 19:14:45,686 - demoOpencart -INFO - user name provided
+2022-04-20 19:14:45,764 - demoOpencart -INFO - password provided
+2022-04-20 19:14:51,393 - demoOpencart -INFO - Login test passed
+2022-04-20 19:14:58,239 - demoOpencart -INFO - user name provided
+2022-04-20 19:14:58,310 - demoOpencart -INFO - password provided
+2022-04-20 19:15:03,984 - demoOpencart -INFO - Login test passed
+2022-04-20 19:15:11,251 - demoOpencart -INFO - user name provided
+2022-04-20 19:15:11,310 - demoOpencart -INFO - password provided
+2022-04-20 19:15:16,938 - demoOpencart -INFO - Login test passed
+2022-04-20 19:15:23,987 - demoOpencart -INFO - user name provided
+2022-04-20 19:15:24,050 - demoOpencart -INFO - password provided
+2022-04-20 19:15:30,335 - demoOpencart -INFO - user name provided
+2022-04-20 19:15:30,401 - demoOpencart -INFO - password provided
+2022-04-20 19:20:12,795 - demoOpencart -INFO - Login test passed
+2022-04-20 19:20:20,800 - demoOpencart -INFO - user name provided
+2022-04-20 19:20:20,860 - demoOpencart -INFO - password provided
+2022-04-20 19:20:26,531 - demoOpencart -INFO - Login test passed
+2022-04-20 19:20:33,495 - demoOpencart -INFO - user name provided
+2022-04-20 19:20:33,555 - demoOpencart -INFO - password provided
+2022-04-20 19:20:39,213 - demoOpencart -INFO - Login test passed
+2022-04-20 19:20:46,176 - demoOpencart -INFO - user name provided
+2022-04-20 19:20:46,242 - demoOpencart -INFO - password provided
+2022-04-20 19:20:51,872 - demoOpencart -INFO - Login test passed
+2022-04-20 19:20:58,832 - demoOpencart -INFO - user name provided
+2022-04-20 19:20:58,898 - demoOpencart -INFO - password provided
+2022-04-20 19:21:05,107 - demoOpencart -INFO - user name provided
+2022-04-20 19:21:05,166 - demoOpencart -INFO - password provided
+2022-04-20 19:28:58,884 - demoOpencart -INFO - Login test passed
+2022-04-20 19:29:06,505 - demoOpencart -INFO - user name provided
+2022-04-20 19:29:06,567 - demoOpencart -INFO - password provided
+2022-04-20 19:29:12,199 - demoOpencart -INFO - Login test passed
+2022-04-20 19:29:19,550 - demoOpencart -INFO - user name provided
+2022-04-20 19:29:19,603 - demoOpencart -INFO - password provided
+2022-04-20 19:29:25,142 - demoOpencart -INFO - Login test passed
+2022-04-20 19:29:32,500 - demoOpencart -INFO - user name provided
+2022-04-20 19:29:32,559 - demoOpencart -INFO - password provided
+2022-04-20 19:29:38,247 - demoOpencart -INFO - Login test passed
+2022-04-20 19:29:45,232 - demoOpencart -INFO - user name provided
+2022-04-20 19:29:45,290 - demoOpencart -INFO - password provided
+2022-04-20 19:29:51,711 - demoOpencart -INFO - user name provided
+2022-04-20 19:29:51,763 - demoOpencart -INFO - password provided
+2022-04-20 22:17:54,148 - demoOpencart -INFO - Registration test passed
+2022-04-20 22:19:15,965 - demoOpencart -INFO - Registration test passed
+2022-04-21 00:21:00,773 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 00:21:02,547 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 00:23:30,483 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 00:23:32,241 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 00:25:27,685 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 00:25:29,399 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 00:25:45,419 - demoOpencart -INFO - Order a Product  test passed
+2022-04-21 00:33:07,720 - demoOpencart -INFO - Login test passed
+2022-04-21 00:33:18,109 - demoOpencart -INFO - user name provided
+2022-04-21 00:33:18,254 - demoOpencart -INFO - password provided
+2022-04-21 00:33:23,888 - demoOpencart -INFO - Login test passed
+2022-04-21 00:33:30,954 - demoOpencart -INFO - user name provided
+2022-04-21 00:33:31,057 - demoOpencart -INFO - password provided
+2022-04-21 00:33:36,702 - demoOpencart -INFO - Login test passed
+2022-04-21 00:33:44,146 - demoOpencart -INFO - user name provided
+2022-04-21 00:33:44,291 - demoOpencart -INFO - password provided
+2022-04-21 00:33:49,887 - demoOpencart -INFO - Login test passed
+2022-04-21 00:33:56,918 - demoOpencart -INFO - user name provided
+2022-04-21 00:33:57,024 - demoOpencart -INFO - password provided
+2022-04-21 00:34:03,463 - demoOpencart -INFO - user name provided
+2022-04-21 00:34:03,581 - demoOpencart -INFO - password provided
+2022-04-21 00:34:20,552 - demoOpencart -INFO - Registration test passed
+2022-04-21 00:34:41,599 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 00:34:43,389 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 00:34:59,185 - demoOpencart -INFO - Order a Product  test passed
+2022-04-21 01:15:46,059 - demoOpencart -INFO - WishList test passed
+2022-04-21 01:16:43,853 - demoOpencart -INFO - Login test passed
+2022-04-21 01:16:51,078 - demoOpencart -INFO - user name provided
+2022-04-21 01:16:51,135 - demoOpencart -INFO - password provided
+2022-04-21 01:16:56,505 - demoOpencart -INFO - Login test passed
+2022-04-21 01:17:03,208 - demoOpencart -INFO - user name provided
+2022-04-21 01:17:03,255 - demoOpencart -INFO - password provided
+2022-04-21 01:17:08,702 - demoOpencart -INFO - Login test passed
+2022-04-21 01:17:15,385 - demoOpencart -INFO - user name provided
+2022-04-21 01:17:15,440 - demoOpencart -INFO - password provided
+2022-04-21 01:17:20,877 - demoOpencart -INFO - Login test passed
+2022-04-21 01:17:27,570 - demoOpencart -INFO - user name provided
+2022-04-21 01:17:27,619 - demoOpencart -INFO - password provided
+2022-04-21 01:17:33,751 - demoOpencart -INFO - user name provided
+2022-04-21 01:17:33,800 - demoOpencart -INFO - password provided
+2022-04-21 01:17:47,390 - demoOpencart -INFO - Registration test passed
+2022-04-21 01:18:03,375 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 01:18:04,901 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 01:18:19,566 - demoOpencart -INFO - Order a Product  test passed
+2022-04-21 01:18:33,012 - demoOpencart -INFO - WishList test passed
+2022-04-21 16:38:28,044 - demoOpencart -INFO - Login test passed
+2022-04-21 16:38:35,540 - demoOpencart -INFO - user name provided
+2022-04-21 16:38:35,592 - demoOpencart -INFO - password provided
+2022-04-21 16:38:41,078 - demoOpencart -INFO - Login test passed
+2022-04-21 16:38:47,839 - demoOpencart -INFO - user name provided
+2022-04-21 16:38:47,888 - demoOpencart -INFO - password provided
+2022-04-21 16:38:54,020 - demoOpencart -INFO - Login test passed
+2022-04-21 16:39:17,499 - demoOpencart -INFO - user name provided
+2022-04-21 16:39:17,549 - demoOpencart -INFO - password provided
+2022-04-21 16:39:23,052 - demoOpencart -INFO - Login test passed
+2022-04-21 16:39:29,731 - demoOpencart -INFO - user name provided
+2022-04-21 16:39:29,782 - demoOpencart -INFO - password provided
+2022-04-21 16:39:35,849 - demoOpencart -INFO - user name provided
+2022-04-21 16:39:35,894 - demoOpencart -INFO - password provided
+2022-04-21 16:39:50,691 - demoOpencart -INFO - Registration test passed
+2022-04-21 16:40:09,493 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 16:40:11,047 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 16:40:54,248 - demoOpencart -INFO - WishList test passed
+2022-04-21 16:44:03,931 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 16:44:05,497 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 16:44:20,188 - demoOpencart -INFO - Order a Product  test passed
+2022-04-21 16:44:33,818 - demoOpencart -INFO - WishList test passed
+2022-04-21 21:06:39,057 - demoOpencart -INFO -  Sorting test passed
+2022-04-21 21:12:58,900 - demoOpencart -INFO - Login test passed
+2022-04-21 21:13:07,324 - demoOpencart -INFO - user name provided
+2022-04-21 21:13:07,389 - demoOpencart -INFO - password provided
+2022-04-21 21:13:12,889 - demoOpencart -INFO - Login test passed
+2022-04-21 21:13:20,163 - demoOpencart -INFO - user name provided
+2022-04-21 21:13:20,222 - demoOpencart -INFO - password provided
+2022-04-21 21:13:27,976 - demoOpencart -INFO - Login test passed
+2022-04-21 21:13:35,235 - demoOpencart -INFO - user name provided
+2022-04-21 21:13:35,299 - demoOpencart -INFO - password provided
+2022-04-21 21:13:41,222 - demoOpencart -INFO - Login test passed
+2022-04-21 21:13:48,257 - demoOpencart -INFO - user name provided
+2022-04-21 21:13:48,314 - demoOpencart -INFO - password provided
+2022-04-21 21:13:54,687 - demoOpencart -INFO - user name provided
+2022-04-21 21:13:54,740 - demoOpencart -INFO - password provided
+2022-04-21 21:14:09,940 - demoOpencart -INFO - Registration test passed
+2022-04-21 21:14:30,646 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-21 21:14:32,642 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-21 21:14:48,365 - demoOpencart -INFO - Order a Product  test passed
+2022-04-21 21:15:05,718 - demoOpencart -INFO - WishList test passed
+2022-04-21 21:15:17,114 - demoOpencart -INFO - Before filter capture the prices
+2022-04-21 21:15:17,209 - demoOpencart -INFO - filter the price from dropdowm
+2022-04-21 21:15:18,708 - demoOpencart -INFO - After filter capture the prices
+2022-04-21 21:15:18,780 - demoOpencart -INFO -  Sorting test passed
+2022-04-22 11:21:02,585 - demoOpencart -INFO - Login test passed
+2022-04-22 11:21:11,632 - demoOpencart -INFO - user name provided
+2022-04-22 11:21:11,701 - demoOpencart -INFO - password provided
+2022-04-22 11:21:17,281 - demoOpencart -INFO - Login test passed
+2022-04-22 11:21:24,635 - demoOpencart -INFO - user name provided
+2022-04-22 11:21:24,691 - demoOpencart -INFO - password provided
+2022-04-22 11:21:31,019 - demoOpencart -INFO - Login test passed
+2022-04-22 11:21:38,192 - demoOpencart -INFO - user name provided
+2022-04-22 11:21:38,266 - demoOpencart -INFO - password provided
+2022-04-22 11:21:44,144 - demoOpencart -INFO - Login test passed
+2022-04-22 11:21:51,291 - demoOpencart -INFO - user name provided
+2022-04-22 11:21:51,363 - demoOpencart -INFO - password provided
+2022-04-22 11:21:57,632 - demoOpencart -INFO - user name provided
+2022-04-22 11:21:57,692 - demoOpencart -INFO - password provided
+2022-04-22 11:22:10,556 - demoOpencart -INFO - Entering the randomly generated email
+2022-04-22 11:22:10,712 - demoOpencart -INFO - Entering the randomly generated password
+2022-04-22 11:22:13,484 - demoOpencart -INFO - Registration test passed
+2022-04-22 11:22:37,345 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-22 11:22:39,057 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-22 11:22:43,621 - demoOpencart -INFO - filling delivery address details
+2022-04-22 11:22:55,577 - demoOpencart -INFO - Order a Product  test passed
+2022-04-22 11:23:08,383 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-04-22 11:23:14,863 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-04-22 11:23:27,097 - demoOpencart -INFO - Before filter capture the prices
+2022-04-22 11:23:27,167 - demoOpencart -INFO - filter the price from dropdowm
+2022-04-22 11:23:28,713 - demoOpencart -INFO - After filter capture the prices
+2022-04-22 11:23:28,782 - demoOpencart -INFO -  Sorting test passed
+2022-04-22 11:25:34,851 - demoOpencart -INFO - Login test passed
+2022-04-22 11:25:43,783 - demoOpencart -INFO - user name provided
+2022-04-22 11:25:43,860 - demoOpencart -INFO - password provided
+2022-04-22 11:25:49,550 - demoOpencart -INFO - Login test passed
+2022-04-22 11:25:56,320 - demoOpencart -INFO - user name provided
+2022-04-22 11:25:56,384 - demoOpencart -INFO - password provided
+2022-04-22 11:26:01,975 - demoOpencart -INFO - Login test passed
+2022-04-22 11:26:08,938 - demoOpencart -INFO - user name provided
+2022-04-22 11:26:08,996 - demoOpencart -INFO - password provided
+2022-04-22 11:26:14,752 - demoOpencart -INFO - Login test passed
+2022-04-22 11:26:21,874 - demoOpencart -INFO - user name provided
+2022-04-22 11:26:21,942 - demoOpencart -INFO - password provided
+2022-04-22 11:26:28,686 - demoOpencart -INFO - user name provided
+2022-04-22 11:26:28,756 - demoOpencart -INFO - password provided
+2022-04-22 11:26:41,775 - demoOpencart -INFO - Entering the randomly generated email
+2022-04-22 11:26:41,939 - demoOpencart -INFO - Entering the randomly generated password
+2022-04-22 11:26:44,704 - demoOpencart -INFO - Registration test passed
+2022-04-22 11:27:02,855 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-22 11:27:04,502 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-22 11:27:09,211 - demoOpencart -INFO - filling delivery address details
+2022-04-22 11:27:20,750 - demoOpencart -INFO - Order a Product  test passed
+2022-04-22 11:27:31,997 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-04-22 11:27:36,397 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-04-22 11:27:36,438 - demoOpencart -INFO - WishList test passed
+2022-04-22 11:27:47,586 - demoOpencart -INFO - Before filter capture the prices
+2022-04-22 11:27:47,677 - demoOpencart -INFO - filter the price from dropdowm
+2022-04-22 11:27:49,116 - demoOpencart -INFO - After filter capture the prices
+2022-04-22 11:27:49,187 - demoOpencart -INFO -  Sorting test passed
+2022-04-22 11:36:25,672 - demoOpencart -INFO - Login test passed
+2022-04-22 11:36:34,192 - demoOpencart -INFO - user name provided
+2022-04-22 11:36:34,266 - demoOpencart -INFO - password provided
+2022-04-22 11:36:39,882 - demoOpencart -INFO - Login test passed
+2022-04-22 11:36:47,025 - demoOpencart -INFO - user name provided
+2022-04-22 11:36:47,106 - demoOpencart -INFO - password provided
+2022-04-22 11:36:52,789 - demoOpencart -INFO - Login test passed
+2022-04-22 11:36:59,798 - demoOpencart -INFO - user name provided
+2022-04-22 11:36:59,881 - demoOpencart -INFO - password provided
+2022-04-22 11:37:05,372 - demoOpencart -INFO - Login test passed
+2022-04-22 11:37:12,404 - demoOpencart -INFO - user name provided
+2022-04-22 11:37:12,579 - demoOpencart -INFO - password provided
+2022-04-22 11:37:19,240 - demoOpencart -INFO - user name provided
+2022-04-22 11:37:19,313 - demoOpencart -INFO - password provided
+2022-04-23 22:45:33,661 - demoOpencart -INFO - Login test passed
+2022-04-23 22:45:44,123 - demoOpencart -INFO - user name provided
+2022-04-23 22:45:44,269 - demoOpencart -INFO - password provided
+2022-04-23 22:45:49,842 - demoOpencart -INFO - Login test passed
+2022-04-23 22:45:56,944 - demoOpencart -INFO - user name provided
+2022-04-23 22:45:57,024 - demoOpencart -INFO - password provided
+2022-04-23 22:46:03,211 - demoOpencart -INFO - Login test passed
+2022-04-23 22:46:10,145 - demoOpencart -INFO - user name provided
+2022-04-23 22:46:10,226 - demoOpencart -INFO - password provided
+2022-04-23 22:46:15,760 - demoOpencart -INFO - Login test passed
+2022-04-23 22:46:22,658 - demoOpencart -INFO - user name provided
+2022-04-23 22:46:22,759 - demoOpencart -INFO - password provided
+2022-04-23 22:48:44,337 - demoOpencart -INFO - Login test passed
+2022-04-23 22:48:52,571 - demoOpencart -INFO - user name provided
+2022-04-23 22:48:52,650 - demoOpencart -INFO - password provided
+2022-04-23 22:48:58,127 - demoOpencart -INFO - Login test passed
+2022-04-23 22:49:05,084 - demoOpencart -INFO - user name provided
+2022-04-23 22:49:05,151 - demoOpencart -INFO - password provided
+2022-04-23 22:49:10,625 - demoOpencart -INFO - Login test passed
+2022-04-23 22:49:17,516 - demoOpencart -INFO - user name provided
+2022-04-23 22:49:17,588 - demoOpencart -INFO - password provided
+2022-04-23 22:49:22,999 - demoOpencart -INFO - Login test passed
+2022-04-23 22:49:30,082 - demoOpencart -INFO - user name provided
+2022-04-23 22:49:30,247 - demoOpencart -INFO - password provided
+2022-04-23 22:49:36,817 - demoOpencart -INFO - user name provided
+2022-04-23 22:49:36,909 - demoOpencart -INFO - password provided
+2022-04-23 22:49:50,061 - demoOpencart -INFO - Entering the randomly generated email
+2022-04-23 22:49:50,246 - demoOpencart -INFO - Entering the randomly generated password
+2022-04-23 22:49:53,101 - demoOpencart -INFO - Registration test passed
+2022-04-23 22:50:16,526 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-23 22:50:18,141 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-23 22:50:22,660 - demoOpencart -INFO - filling delivery address details
+2022-04-23 22:50:33,342 - demoOpencart -INFO - Order a Product  test passed
+2022-04-23 22:50:45,538 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-04-23 22:50:51,733 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-04-23 22:50:51,823 - demoOpencart -INFO - WishList test passed
+2022-04-23 22:51:05,319 - demoOpencart -INFO - Before filter capture the prices
+2022-04-23 22:51:05,563 - demoOpencart -INFO - filter the price from dropdowm
+2022-04-23 22:51:07,126 - demoOpencart -INFO - After filter capture the prices
+2022-04-23 22:51:07,207 - demoOpencart -INFO -  Sorting test passed
+2022-04-23 23:12:13,424 - demoOpencart -INFO - user name provided
+2022-04-23 23:12:13,500 - demoOpencart -INFO - password provided
+2022-04-23 23:12:19,002 - demoOpencart -INFO - Login test passed
+2022-04-23 23:12:26,235 - demoOpencart -INFO - user name provided
+2022-04-23 23:12:26,424 - demoOpencart -INFO - password provided
+2022-04-23 23:12:32,080 - demoOpencart -INFO - Login test passed
+2022-04-23 23:12:39,805 - demoOpencart -INFO - user name provided
+2022-04-23 23:12:39,866 - demoOpencart -INFO - password provided
+2022-04-23 23:12:45,289 - demoOpencart -INFO - Login test passed
+2022-04-23 23:12:52,191 - demoOpencart -INFO - user name provided
+2022-04-23 23:12:52,295 - demoOpencart -INFO - password provided
+2022-04-23 23:12:58,632 - demoOpencart -INFO - user name provided
+2022-04-23 23:12:58,690 - demoOpencart -INFO - password provided
+2022-04-23 23:21:20,200 - demoOpencart -INFO - user name provided
+2022-04-23 23:21:20,281 - demoOpencart -INFO - password provided
+2022-04-23 23:21:25,956 - demoOpencart -INFO - Login test passed
+2022-04-23 23:21:33,098 - demoOpencart -INFO - user name provided
+2022-04-23 23:21:33,307 - demoOpencart -INFO - password provided
+2022-04-23 23:21:38,879 - demoOpencart -INFO - Login test passed
+2022-04-23 23:21:46,093 - demoOpencart -INFO - user name provided
+2022-04-23 23:21:46,175 - demoOpencart -INFO - password provided
+2022-04-23 23:21:51,664 - demoOpencart -INFO - Login test passed
+2022-04-23 23:21:58,541 - demoOpencart -INFO - user name provided
+2022-04-23 23:21:58,599 - demoOpencart -INFO - password provided
+2022-04-23 23:22:04,855 - demoOpencart -INFO - user name provided
+2022-04-23 23:22:04,945 - demoOpencart -INFO - password provided
+2022-04-23 23:28:53,911 - demoOpencart -INFO - Login test passed
+2022-04-23 23:29:01,987 - demoOpencart -INFO - user name provided
+2022-04-23 23:29:02,172 - demoOpencart -INFO - password provided
+2022-04-23 23:29:07,895 - demoOpencart -INFO - Login test passed
+2022-04-23 23:29:14,816 - demoOpencart -INFO - user name provided
+2022-04-23 23:29:14,873 - demoOpencart -INFO - password provided
+2022-04-23 23:29:20,359 - demoOpencart -INFO - Login test passed
+2022-04-23 23:29:27,568 - demoOpencart -INFO - user name provided
+2022-04-23 23:29:27,624 - demoOpencart -INFO - password provided
+2022-04-23 23:29:33,059 - demoOpencart -INFO - Login test passed
+2022-04-23 23:29:39,798 - demoOpencart -INFO - user name provided
+2022-04-23 23:29:39,857 - demoOpencart -INFO - password provided
+2022-04-23 23:29:46,237 - demoOpencart -INFO - user name provided
+2022-04-23 23:29:46,292 - demoOpencart -INFO - password provided
+2022-04-23 23:36:27,380 - demoOpencart -INFO - Login test passed
+2022-04-23 23:36:35,389 - demoOpencart -INFO - user name provided
+2022-04-23 23:36:35,451 - demoOpencart -INFO - password provided
+2022-04-23 23:36:41,050 - demoOpencart -INFO - Login test passed
+2022-04-23 23:36:48,063 - demoOpencart -INFO - user name provided
+2022-04-23 23:36:48,121 - demoOpencart -INFO - password provided
+2022-04-23 23:36:53,980 - demoOpencart -INFO - Login test passed
+2022-04-23 23:37:01,214 - demoOpencart -INFO - user name provided
+2022-04-23 23:37:01,268 - demoOpencart -INFO - password provided
+2022-04-23 23:37:06,748 - demoOpencart -INFO - Login test passed
+2022-04-23 23:37:13,560 - demoOpencart -INFO - user name provided
+2022-04-23 23:37:13,619 - demoOpencart -INFO - password provided
+2022-04-23 23:37:19,803 - demoOpencart -INFO - user name provided
+2022-04-23 23:37:19,867 - demoOpencart -INFO - password provided
+2022-04-23 23:37:31,860 - demoOpencart -INFO - Entering the randomly generated email
+2022-04-23 23:37:31,994 - demoOpencart -INFO - Entering the randomly generated password
+2022-04-23 23:37:34,746 - demoOpencart -INFO - Registration test passed
+2022-04-23 23:37:52,305 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-23 23:37:54,070 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-23 23:37:58,638 - demoOpencart -INFO - filling delivery address details
+2022-04-23 23:38:09,374 - demoOpencart -INFO - Order a Product  test passed
+2022-04-23 23:38:20,607 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-04-23 23:38:23,979 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-04-23 23:38:24,017 - demoOpencart -INFO - WishList test passed
+2022-04-23 23:38:34,687 - demoOpencart -INFO - Before filter capture the prices
+2022-04-23 23:38:34,814 - demoOpencart -INFO - filter the price from dropdowm
+2022-04-23 23:38:36,216 - demoOpencart -INFO - After filter capture the prices
+2022-04-23 23:38:36,346 - demoOpencart -INFO -  Sorting test passed
+2022-04-25 10:06:35,025 - demoOpencart -INFO - Login test passed
+2022-04-25 10:06:42,382 - demoOpencart -INFO - user name provided
+2022-04-25 10:06:42,439 - demoOpencart -INFO - password provided
+2022-04-25 10:06:47,848 - demoOpencart -INFO - Login test passed
+2022-04-25 10:06:54,414 - demoOpencart -INFO - user name provided
+2022-04-25 10:06:54,465 - demoOpencart -INFO - password provided
+2022-04-25 10:07:01,043 - demoOpencart -INFO - Login test passed
+2022-04-25 10:07:07,697 - demoOpencart -INFO - user name provided
+2022-04-25 10:07:07,755 - demoOpencart -INFO - password provided
+2022-04-25 10:07:13,165 - demoOpencart -INFO - Login test passed
+2022-04-25 10:07:19,766 - demoOpencart -INFO - user name provided
+2022-04-25 10:07:19,821 - demoOpencart -INFO - password provided
+2022-04-25 10:07:25,890 - demoOpencart -INFO - user name provided
+2022-04-25 10:07:25,934 - demoOpencart -INFO - password provided
+2022-04-25 10:07:37,070 - demoOpencart -INFO - Entering the randomly generated email
+2022-04-25 10:07:37,188 - demoOpencart -INFO - Entering the randomly generated password
+2022-04-25 10:07:39,784 - demoOpencart -INFO - Registration test passed
+2022-04-25 10:07:58,046 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-25 10:07:59,626 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-25 10:08:04,026 - demoOpencart -INFO - filling delivery address details
+2022-04-25 10:08:14,221 - demoOpencart -INFO - Order a Product  test passed
+2022-04-25 10:08:24,638 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-04-25 10:08:28,946 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-04-25 10:08:28,993 - demoOpencart -INFO - WishList test passed
+2022-04-25 10:08:40,314 - demoOpencart -INFO - Before filter capture the prices
+2022-04-25 10:08:40,392 - demoOpencart -INFO - filter the price from dropdown
+2022-04-25 10:08:41,718 - demoOpencart -INFO - After filter capture the prices
+2022-04-25 10:08:41,781 - demoOpencart -INFO -  Sorting test passed
+2022-04-28 00:25:06,515 - demoOpencart -INFO - Login test passed
+2022-04-28 00:25:14,542 - demoOpencart -INFO - user name provided
+2022-04-28 00:25:14,680 - demoOpencart -INFO - password provided
+2022-04-28 00:25:20,156 - demoOpencart -INFO - Login test passed
+2022-04-28 00:25:26,934 - demoOpencart -INFO - user name provided
+2022-04-28 00:25:27,068 - demoOpencart -INFO - password provided
+2022-04-28 00:25:32,465 - demoOpencart -INFO - Login test passed
+2022-04-28 00:25:39,132 - demoOpencart -INFO - user name provided
+2022-04-28 00:25:39,253 - demoOpencart -INFO - password provided
+2022-04-28 00:25:44,687 - demoOpencart -INFO - Login test passed
+2022-04-28 00:25:51,307 - demoOpencart -INFO - user name provided
+2022-04-28 00:25:51,432 - demoOpencart -INFO - password provided
+2022-04-28 00:25:57,615 - demoOpencart -INFO - user name provided
+2022-04-28 00:25:57,720 - demoOpencart -INFO - password provided
+2022-04-28 00:26:08,985 - demoOpencart -INFO - Entering the randomly generated email
+2022-04-28 00:26:09,244 - demoOpencart -INFO - Entering the randomly generated password
+2022-04-28 00:26:11,985 - demoOpencart -INFO - Registration test passed
+2022-04-28 00:26:26,578 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-04-28 00:26:28,404 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-04-28 00:26:32,937 - demoOpencart -INFO - filling delivery address details
+2022-04-28 00:26:43,596 - demoOpencart -INFO - Order a Product  test passed
+2022-04-28 00:26:54,179 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-04-28 00:26:58,017 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-04-28 00:26:58,066 - demoOpencart -INFO - WishList test passed
+2022-04-28 00:27:08,940 - demoOpencart -INFO - Before filter capture the prices
+2022-04-28 00:27:09,054 - demoOpencart -INFO - filter the price from dropdown
+2022-04-28 00:27:10,416 - demoOpencart -INFO - After filter capture the prices
+2022-04-28 00:27:10,522 - demoOpencart -INFO -  Sorting test passed
+2022-05-01 11:57:33,214 - demoOpencart -INFO - Login test passed
+2022-05-01 11:57:53,993 - demoOpencart -INFO - user name provided
+2022-05-01 11:57:54,143 - demoOpencart -INFO - password provided
+2022-05-01 11:58:00,062 - demoOpencart -INFO - Login test passed
+2022-05-01 11:58:08,151 - demoOpencart -INFO - user name provided
+2022-05-01 11:58:08,285 - demoOpencart -INFO - password provided
+2022-05-01 11:58:13,926 - demoOpencart -INFO - Login test passed
+2022-05-01 11:58:21,127 - demoOpencart -INFO - user name provided
+2022-05-01 11:58:21,247 - demoOpencart -INFO - password provided
+2022-05-01 11:58:26,810 - demoOpencart -INFO - Login test passed
+2022-05-01 11:58:34,192 - demoOpencart -INFO - user name provided
+2022-05-01 11:58:34,334 - demoOpencart -INFO - password provided
+2022-05-01 11:58:41,000 - demoOpencart -INFO - user name provided
+2022-05-01 11:58:41,112 - demoOpencart -INFO - password provided
+2022-05-01 11:58:53,756 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-01 11:58:54,107 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-01 11:58:57,036 - demoOpencart -INFO - Registration test passed
+2022-05-01 11:59:16,380 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-01 11:59:18,350 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-01 11:59:23,245 - demoOpencart -INFO - filling delivery address details
+2022-05-01 11:59:34,218 - demoOpencart -INFO - Order a Product  test passed
+2022-05-01 11:59:46,601 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-01 11:59:52,703 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-01 11:59:52,793 - demoOpencart -INFO - WishList test passed
+2022-05-01 12:00:06,945 - demoOpencart -INFO - Before filter capture the prices
+2022-05-01 12:00:07,188 - demoOpencart -INFO - filter the price from dropdown
+2022-05-01 12:00:08,749 - demoOpencart -INFO - After filter capture the prices
+2022-05-01 12:00:08,890 - demoOpencart -INFO -  Sorting test passed
+2022-05-01 21:47:49,361 - demoOpencart -INFO - Login test passed
+2022-05-01 21:48:08,517 - demoOpencart -INFO - user name provided
+2022-05-01 21:48:08,697 - demoOpencart -INFO - password provided
+2022-05-01 21:48:14,172 - demoOpencart -INFO - Login test passed
+2022-05-01 21:48:21,298 - demoOpencart -INFO - user name provided
+2022-05-01 21:48:21,469 - demoOpencart -INFO - password provided
+2022-05-01 21:48:27,523 - demoOpencart -INFO - Login test passed
+2022-05-01 21:48:34,680 - demoOpencart -INFO - user name provided
+2022-05-01 21:48:34,803 - demoOpencart -INFO - password provided
+2022-05-01 21:48:40,277 - demoOpencart -INFO - Login test passed
+2022-05-01 21:48:47,082 - demoOpencart -INFO - user name provided
+2022-05-01 21:48:47,194 - demoOpencart -INFO - password provided
+2022-05-01 21:48:53,505 - demoOpencart -INFO - user name provided
+2022-05-01 21:48:53,633 - demoOpencart -INFO - password provided
+2022-05-01 21:49:06,107 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-01 21:49:06,367 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-01 21:49:09,154 - demoOpencart -INFO - Registration test passed
+2022-05-01 21:49:27,207 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-01 21:49:28,796 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-01 21:49:33,273 - demoOpencart -INFO - filling delivery address details
+2022-05-01 21:50:10,988 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-01 21:50:15,888 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-01 21:50:15,937 - demoOpencart -INFO - WishList test passed
+2022-05-01 21:50:27,502 - demoOpencart -INFO - Before filter capture the prices
+2022-05-01 21:50:27,620 - demoOpencart -INFO - filter the price from dropdown
+2022-05-01 21:50:29,109 - demoOpencart -INFO - After filter capture the prices
+2022-05-01 21:50:29,224 - demoOpencart -INFO -  Sorting test passed
+2022-05-01 21:58:18,307 - demoOpencart -INFO - Login test passed
+2022-05-01 21:58:28,715 - demoOpencart -INFO - user name provided
+2022-05-01 21:58:28,868 - demoOpencart -INFO - password provided
+2022-05-01 21:58:35,437 - demoOpencart -INFO - Login test passed
+2022-05-01 21:58:42,453 - demoOpencart -INFO - user name provided
+2022-05-01 21:58:42,603 - demoOpencart -INFO - password provided
+2022-05-01 21:58:48,118 - demoOpencart -INFO - Login test passed
+2022-05-01 21:58:55,005 - demoOpencart -INFO - user name provided
+2022-05-01 21:58:55,157 - demoOpencart -INFO - password provided
+2022-05-01 21:59:00,652 - demoOpencart -INFO - Login test passed
+2022-05-01 21:59:07,493 - demoOpencart -INFO - user name provided
+2022-05-01 21:59:07,599 - demoOpencart -INFO - password provided
+2022-05-01 21:59:14,034 - demoOpencart -INFO - user name provided
+2022-05-01 21:59:14,287 - demoOpencart -INFO - password provided
+2022-05-01 21:59:26,154 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-01 21:59:26,587 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-01 21:59:29,537 - demoOpencart -INFO - Registration test passed
+2022-05-01 21:59:46,157 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-01 21:59:47,780 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-01 21:59:52,280 - demoOpencart -INFO - filling delivery address details
+2022-05-01 22:00:29,270 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-01 22:00:34,236 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-01 22:00:34,297 - demoOpencart -INFO - WishList test passed
+2022-05-01 22:00:45,836 - demoOpencart -INFO - Before filter capture the prices
+2022-05-01 22:00:46,008 - demoOpencart -INFO - filter the price from dropdown
+2022-05-01 22:00:47,580 - demoOpencart -INFO - After filter capture the prices
+2022-05-01 22:00:47,752 - demoOpencart -INFO -  Sorting test passed
+2022-05-01 23:01:37,708 - demoOpencart -INFO - Login test passed
+2022-05-01 23:01:48,984 - demoOpencart -INFO - user name provided
+2022-05-01 23:01:49,130 - demoOpencart -INFO - password provided
+2022-05-01 23:01:54,622 - demoOpencart -INFO - Login test passed
+2022-05-01 23:02:01,672 - demoOpencart -INFO - user name provided
+2022-05-01 23:02:01,798 - demoOpencart -INFO - password provided
+2022-05-01 23:02:07,527 - demoOpencart -INFO - Login test passed
+2022-05-01 23:02:14,720 - demoOpencart -INFO - user name provided
+2022-05-01 23:02:14,822 - demoOpencart -INFO - password provided
+2022-05-01 23:02:20,346 - demoOpencart -INFO - Login test passed
+2022-05-01 23:02:27,612 - demoOpencart -INFO - user name provided
+2022-05-01 23:02:27,748 - demoOpencart -INFO - password provided
+2022-05-01 23:02:34,363 - demoOpencart -INFO - user name provided
+2022-05-01 23:02:34,480 - demoOpencart -INFO - password provided
+2022-05-01 23:02:47,617 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-01 23:02:47,881 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-01 23:02:50,788 - demoOpencart -INFO - Registration test passed
+2022-05-01 23:03:08,858 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-01 23:03:10,548 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-01 23:03:15,045 - demoOpencart -INFO - filling delivery address details
+2022-05-01 23:03:25,958 - demoOpencart -INFO - Order a Product  test passed
+2022-05-01 23:03:38,489 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-01 23:03:42,194 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-01 23:03:42,240 - demoOpencart -INFO - WishList test passed
+2022-05-01 23:03:54,152 - demoOpencart -INFO - Before filter capture the prices
+2022-05-01 23:03:54,338 - demoOpencart -INFO - filter the price from dropdown
+2022-05-01 23:03:55,848 - demoOpencart -INFO - After filter capture the prices
+2022-05-01 23:03:56,025 - demoOpencart -INFO -  Sorting test passed
+2022-05-01 23:06:17,934 - demoOpencart -INFO - Login test passed
+2022-05-01 23:06:28,585 - demoOpencart -INFO - user name provided
+2022-05-01 23:06:28,712 - demoOpencart -INFO - password provided
+2022-05-01 23:06:34,214 - demoOpencart -INFO - Login test passed
+2022-05-01 23:06:40,989 - demoOpencart -INFO - user name provided
+2022-05-01 23:06:41,105 - demoOpencart -INFO - password provided
+2022-05-01 23:06:47,126 - demoOpencart -INFO - Login test passed
+2022-05-01 23:06:54,311 - demoOpencart -INFO - user name provided
+2022-05-01 23:06:54,422 - demoOpencart -INFO - password provided
+2022-05-01 23:06:59,890 - demoOpencart -INFO - Login test passed
+2022-05-01 23:07:07,357 - demoOpencart -INFO - user name provided
+2022-05-01 23:07:07,484 - demoOpencart -INFO - password provided
+2022-05-01 23:07:14,064 - demoOpencart -INFO - user name provided
+2022-05-01 23:07:14,183 - demoOpencart -INFO - password provided
+2022-05-01 23:07:26,727 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-01 23:07:27,130 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-01 23:07:29,933 - demoOpencart -INFO - Registration test passed
+2022-05-01 23:07:51,269 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-01 23:07:53,206 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-01 23:07:57,915 - demoOpencart -INFO - filling delivery address details
+2022-05-01 23:08:08,899 - demoOpencart -INFO - Order a Product  test passed
+2022-05-01 23:08:20,581 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-01 23:08:24,814 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-01 23:08:24,879 - demoOpencart -INFO - WishList test passed
+2022-05-01 23:08:36,344 - demoOpencart -INFO - Before filter capture the prices
+2022-05-01 23:08:36,465 - demoOpencart -INFO - filter the price from dropdown
+2022-05-01 23:08:37,923 - demoOpencart -INFO - After filter capture the prices
+2022-05-01 23:08:38,048 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 14:18:49,053 - demoOpencart -INFO - Login test passed
+2022-05-02 14:18:59,499 - demoOpencart -INFO - user name provided
+2022-05-02 14:18:59,655 - demoOpencart -INFO - password provided
+2022-05-02 14:19:05,236 - demoOpencart -INFO - Login test passed
+2022-05-02 14:19:12,772 - demoOpencart -INFO - user name provided
+2022-05-02 14:19:12,902 - demoOpencart -INFO - password provided
+2022-05-02 14:19:19,836 - demoOpencart -INFO - Login test passed
+2022-05-02 14:19:26,997 - demoOpencart -INFO - user name provided
+2022-05-02 14:19:27,118 - demoOpencart -INFO - password provided
+2022-05-02 14:19:32,732 - demoOpencart -INFO - Login test passed
+2022-05-02 14:19:39,780 - demoOpencart -INFO - user name provided
+2022-05-02 14:19:39,896 - demoOpencart -INFO - password provided
+2022-05-02 14:19:46,597 - demoOpencart -INFO - user name provided
+2022-05-02 14:19:46,703 - demoOpencart -INFO - password provided
+2022-05-02 14:19:59,180 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 14:19:59,438 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 14:20:02,502 - demoOpencart -INFO - Registration test passed
+2022-05-02 14:20:22,479 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 14:20:24,237 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 14:20:28,720 - demoOpencart -INFO - filling delivery address details
+2022-05-02 14:21:06,272 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 14:21:10,830 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 14:21:10,922 - demoOpencart -INFO - WishList test passed
+2022-05-02 14:21:37,251 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 14:21:37,376 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 14:21:38,963 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 14:21:39,100 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 14:22:36,657 - demoOpencart -INFO - Login test passed
+2022-05-02 14:22:46,746 - demoOpencart -INFO - user name provided
+2022-05-02 14:22:46,917 - demoOpencart -INFO - password provided
+2022-05-02 14:22:52,543 - demoOpencart -INFO - Login test passed
+2022-05-02 14:23:00,328 - demoOpencart -INFO - user name provided
+2022-05-02 14:23:00,465 - demoOpencart -INFO - password provided
+2022-05-02 14:23:06,105 - demoOpencart -INFO - Login test passed
+2022-05-02 14:23:13,348 - demoOpencart -INFO - user name provided
+2022-05-02 14:23:13,468 - demoOpencart -INFO - password provided
+2022-05-02 14:23:18,969 - demoOpencart -INFO - Login test passed
+2022-05-02 14:23:26,599 - demoOpencart -INFO - user name provided
+2022-05-02 14:23:26,717 - demoOpencart -INFO - password provided
+2022-05-02 14:23:33,366 - demoOpencart -INFO - user name provided
+2022-05-02 14:23:33,481 - demoOpencart -INFO - password provided
+2022-05-02 14:23:45,542 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 14:23:45,813 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 14:23:48,760 - demoOpencart -INFO - Registration test passed
+2022-05-02 14:24:06,859 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 14:24:08,869 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 14:24:13,568 - demoOpencart -INFO - filling delivery address details
+2022-05-02 14:24:25,236 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 14:24:37,989 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 14:24:42,880 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 14:24:43,006 - demoOpencart -INFO - WishList test passed
+2022-05-02 14:24:54,591 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 14:24:54,729 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 14:24:56,280 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 14:24:56,428 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 14:35:07,828 - demoOpencart -INFO - Login test passed
+2022-05-02 14:35:18,544 - demoOpencart -INFO - user name provided
+2022-05-02 14:35:18,704 - demoOpencart -INFO - password provided
+2022-05-02 14:35:24,372 - demoOpencart -INFO - Login test passed
+2022-05-02 14:35:31,361 - demoOpencart -INFO - user name provided
+2022-05-02 14:35:31,489 - demoOpencart -INFO - password provided
+2022-05-02 14:35:37,105 - demoOpencart -INFO - Login test passed
+2022-05-02 14:35:44,519 - demoOpencart -INFO - user name provided
+2022-05-02 14:35:44,631 - demoOpencart -INFO - password provided
+2022-05-02 14:35:50,292 - demoOpencart -INFO - Login test passed
+2022-05-02 14:35:57,619 - demoOpencart -INFO - user name provided
+2022-05-02 14:35:57,731 - demoOpencart -INFO - password provided
+2022-05-02 14:36:04,375 - demoOpencart -INFO - user name provided
+2022-05-02 14:36:04,482 - demoOpencart -INFO - password provided
+2022-05-02 14:36:16,560 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 14:36:16,819 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 14:36:19,973 - demoOpencart -INFO - Registration test passed
+2022-05-02 14:36:39,069 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 14:36:40,747 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 14:36:45,329 - demoOpencart -INFO - filling delivery address details
+2022-05-02 14:36:56,719 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 14:37:09,299 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 14:37:14,270 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 14:37:14,333 - demoOpencart -INFO - WishList test passed
+2022-05-02 14:37:27,157 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 14:37:27,376 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 14:37:29,017 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 14:37:29,142 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 15:28:57,141 - demoOpencart -INFO - Login test passed
+2022-05-02 15:29:08,416 - demoOpencart -INFO - user name provided
+2022-05-02 15:29:08,580 - demoOpencart -INFO - password provided
+2022-05-02 15:29:14,071 - demoOpencart -INFO - Login test passed
+2022-05-02 15:29:21,049 - demoOpencart -INFO - user name provided
+2022-05-02 15:29:21,201 - demoOpencart -INFO - password provided
+2022-05-02 15:29:26,865 - demoOpencart -INFO - Login test passed
+2022-05-02 15:29:34,228 - demoOpencart -INFO - user name provided
+2022-05-02 15:29:34,348 - demoOpencart -INFO - password provided
+2022-05-02 15:29:39,898 - demoOpencart -INFO - Login test passed
+2022-05-02 15:29:47,131 - demoOpencart -INFO - user name provided
+2022-05-02 15:29:47,272 - demoOpencart -INFO - password provided
+2022-05-02 15:29:53,765 - demoOpencart -INFO - user name provided
+2022-05-02 15:29:53,871 - demoOpencart -INFO - password provided
+2022-05-02 15:30:06,472 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 15:30:06,796 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 15:30:09,637 - demoOpencart -INFO - Registration test passed
+2022-05-02 15:30:28,599 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 15:30:30,793 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 15:30:35,609 - demoOpencart -INFO - filling delivery address details
+2022-05-02 15:30:50,000 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 15:30:54,423 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 15:30:54,488 - demoOpencart -INFO - WishList test passed
+2022-05-02 15:31:07,100 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 15:31:07,360 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 15:31:08,858 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 15:31:08,968 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 15:32:19,741 - demoOpencart -INFO - Login test passed
+2022-05-02 15:32:29,913 - demoOpencart -INFO - user name provided
+2022-05-02 15:32:30,077 - demoOpencart -INFO - password provided
+2022-05-02 15:32:35,665 - demoOpencart -INFO - Login test passed
+2022-05-02 15:32:42,700 - demoOpencart -INFO - user name provided
+2022-05-02 15:32:42,856 - demoOpencart -INFO - password provided
+2022-05-02 15:32:48,519 - demoOpencart -INFO - Login test passed
+2022-05-02 15:32:56,059 - demoOpencart -INFO - user name provided
+2022-05-02 15:32:56,248 - demoOpencart -INFO - password provided
+2022-05-02 15:33:02,035 - demoOpencart -INFO - Login test passed
+2022-05-02 15:33:09,458 - demoOpencart -INFO - user name provided
+2022-05-02 15:33:09,587 - demoOpencart -INFO - password provided
+2022-05-02 15:33:16,095 - demoOpencart -INFO - user name provided
+2022-05-02 15:33:16,205 - demoOpencart -INFO - password provided
+2022-05-02 15:33:29,116 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 15:33:29,406 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 15:33:32,334 - demoOpencart -INFO - Registration test passed
+2022-05-02 15:33:50,460 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 15:33:52,183 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 15:33:56,721 - demoOpencart -INFO - filling delivery address details
+2022-05-02 15:34:35,949 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 15:34:39,979 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 15:34:40,034 - demoOpencart -INFO - WishList test passed
+2022-05-02 15:34:52,870 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 15:34:53,025 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 15:34:54,864 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 15:34:55,009 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 16:50:38,429 - demoOpencart -INFO - Login test passed
+2022-05-02 16:50:49,316 - demoOpencart -INFO - user name provided
+2022-05-02 16:50:49,496 - demoOpencart -INFO - password provided
+2022-05-02 16:50:55,127 - demoOpencart -INFO - Login test passed
+2022-05-02 16:51:02,118 - demoOpencart -INFO - user name provided
+2022-05-02 16:51:02,276 - demoOpencart -INFO - password provided
+2022-05-02 16:51:07,818 - demoOpencart -INFO - Login test passed
+2022-05-02 16:51:14,771 - demoOpencart -INFO - user name provided
+2022-05-02 16:51:14,919 - demoOpencart -INFO - password provided
+2022-05-02 16:51:20,515 - demoOpencart -INFO - Login test passed
+2022-05-02 16:51:27,620 - demoOpencart -INFO - user name provided
+2022-05-02 16:51:27,777 - demoOpencart -INFO - password provided
+2022-05-02 16:51:34,468 - demoOpencart -INFO - user name provided
+2022-05-02 16:51:34,577 - demoOpencart -INFO - password provided
+2022-05-02 16:51:48,248 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 16:51:48,526 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 16:51:51,433 - demoOpencart -INFO - Registration test passed
+2022-05-02 16:52:12,791 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 16:52:14,444 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 16:52:18,996 - demoOpencart -INFO - filling delivery address details
+2022-05-02 16:52:29,997 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 16:52:43,675 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 16:52:48,073 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 16:52:48,149 - demoOpencart -INFO - WishList test passed
+2022-05-02 16:53:02,793 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 16:53:02,942 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 16:53:04,695 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 16:53:04,829 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 20:40:54,238 - demoOpencart -INFO - Login test passed
+2022-05-02 20:41:04,882 - demoOpencart -INFO - user name provided
+2022-05-02 20:41:04,997 - demoOpencart -INFO - password provided
+2022-05-02 20:41:10,508 - demoOpencart -INFO - Login test passed
+2022-05-02 20:41:17,423 - demoOpencart -INFO - user name provided
+2022-05-02 20:41:17,598 - demoOpencart -INFO - password provided
+2022-05-02 20:41:23,142 - demoOpencart -INFO - Login test passed
+2022-05-02 20:41:30,223 - demoOpencart -INFO - user name provided
+2022-05-02 20:41:30,333 - demoOpencart -INFO - password provided
+2022-05-02 20:41:35,861 - demoOpencart -INFO - Login test passed
+2022-05-02 20:41:42,698 - demoOpencart -INFO - user name provided
+2022-05-02 20:41:42,803 - demoOpencart -INFO - password provided
+2022-05-02 20:41:49,168 - demoOpencart -INFO - user name provided
+2022-05-02 20:41:49,287 - demoOpencart -INFO - password provided
+2022-05-02 20:42:01,979 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 20:42:02,223 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 20:42:05,087 - demoOpencart -INFO - Registration test passed
+2022-05-02 20:42:24,066 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 20:42:25,701 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 20:42:30,229 - demoOpencart -INFO - filling delivery address details
+2022-05-02 20:42:41,314 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 20:42:54,300 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 20:42:59,234 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 20:42:59,292 - demoOpencart -INFO - WishList test passed
+2022-05-02 20:43:11,452 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 20:43:11,563 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 20:43:12,980 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 20:43:13,097 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 20:45:28,818 - demoOpencart -INFO - Login test passed
+2022-05-02 20:45:39,142 - demoOpencart -INFO - user name provided
+2022-05-02 20:45:39,270 - demoOpencart -INFO - password provided
+2022-05-02 20:45:44,709 - demoOpencart -INFO - Login test passed
+2022-05-02 20:45:51,566 - demoOpencart -INFO - user name provided
+2022-05-02 20:45:51,722 - demoOpencart -INFO - password provided
+2022-05-02 20:45:57,243 - demoOpencart -INFO - Login test passed
+2022-05-02 20:46:04,087 - demoOpencart -INFO - user name provided
+2022-05-02 20:46:04,210 - demoOpencart -INFO - password provided
+2022-05-02 20:46:09,654 - demoOpencart -INFO - Login test passed
+2022-05-02 20:46:16,399 - demoOpencart -INFO - user name provided
+2022-05-02 20:46:16,508 - demoOpencart -INFO - password provided
+2022-05-02 20:46:22,840 - demoOpencart -INFO - user name provided
+2022-05-02 20:46:23,053 - demoOpencart -INFO - password provided
+2022-05-02 20:46:36,175 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 20:46:36,434 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 20:46:39,231 - demoOpencart -INFO - Registration test passed
+2022-05-02 20:46:57,414 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 20:46:59,003 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 20:47:03,482 - demoOpencart -INFO - filling delivery address details
+2022-05-02 20:47:14,646 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 20:47:27,100 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 20:47:31,590 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 20:47:31,639 - demoOpencart -INFO - WishList test passed
+2022-05-02 20:47:43,738 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 20:47:43,884 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 20:47:45,352 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 20:47:45,478 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 20:48:51,308 - demoOpencart -INFO - Login test passed
+2022-05-02 20:49:01,366 - demoOpencart -INFO - user name provided
+2022-05-02 20:49:01,523 - demoOpencart -INFO - password provided
+2022-05-02 20:49:07,007 - demoOpencart -INFO - Login test passed
+2022-05-02 20:49:14,583 - demoOpencart -INFO - user name provided
+2022-05-02 20:49:14,709 - demoOpencart -INFO - password provided
+2022-05-02 20:49:20,190 - demoOpencart -INFO - Login test passed
+2022-05-02 20:49:26,997 - demoOpencart -INFO - user name provided
+2022-05-02 20:49:27,109 - demoOpencart -INFO - password provided
+2022-05-02 20:49:32,564 - demoOpencart -INFO - Login test passed
+2022-05-02 20:49:39,417 - demoOpencart -INFO - user name provided
+2022-05-02 20:49:39,524 - demoOpencart -INFO - password provided
+2022-05-02 20:49:45,808 - demoOpencart -INFO - user name provided
+2022-05-02 20:49:45,912 - demoOpencart -INFO - password provided
+2022-05-02 20:49:58,138 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 20:49:58,447 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 20:50:01,354 - demoOpencart -INFO - Registration test passed
+2022-05-02 20:50:19,994 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 20:50:21,848 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 20:50:26,591 - demoOpencart -INFO - filling delivery address details
+2022-05-02 20:50:37,418 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 20:50:49,332 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 20:50:53,343 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 20:50:53,388 - demoOpencart -INFO - WishList test passed
+2022-05-02 20:51:04,893 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 20:51:05,051 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 20:51:06,513 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 20:51:06,622 - demoOpencart -INFO -  Sorting test passed
+2022-05-02 20:53:23,234 - demoOpencart -INFO - Login test passed
+2022-05-02 20:53:33,266 - demoOpencart -INFO - user name provided
+2022-05-02 20:53:33,392 - demoOpencart -INFO - password provided
+2022-05-02 20:53:38,832 - demoOpencart -INFO - Login test passed
+2022-05-02 20:53:45,684 - demoOpencart -INFO - user name provided
+2022-05-02 20:53:45,842 - demoOpencart -INFO - password provided
+2022-05-02 20:53:51,334 - demoOpencart -INFO - Login test passed
+2022-05-02 20:53:58,170 - demoOpencart -INFO - user name provided
+2022-05-02 20:53:58,289 - demoOpencart -INFO - password provided
+2022-05-02 20:54:03,712 - demoOpencart -INFO - Login test passed
+2022-05-02 20:54:10,435 - demoOpencart -INFO - user name provided
+2022-05-02 20:54:10,542 - demoOpencart -INFO - password provided
+2022-05-02 20:54:16,731 - demoOpencart -INFO - user name provided
+2022-05-02 20:54:16,881 - demoOpencart -INFO - password provided
+2022-05-02 20:54:29,778 - demoOpencart -INFO - Entering the randomly generated email
+2022-05-02 20:54:30,058 - demoOpencart -INFO - Entering the randomly generated password
+2022-05-02 20:54:32,885 - demoOpencart -INFO - Registration test passed
+2022-05-02 20:54:50,462 - demoOpencart -INFO - Title Shopping Cart displayed
+2022-05-02 20:54:52,049 - demoOpencart -INFO - Successfully landed on Checkout page
+2022-05-02 20:54:56,558 - demoOpencart -INFO - filling delivery address details
+2022-05-02 20:55:07,515 - demoOpencart -INFO - Order a Product  test passed
+2022-05-02 20:55:20,173 - demoOpencart -INFO - Capturing the Name of the product before adding it to the wishlist. 
+2022-05-02 20:55:24,171 - demoOpencart -INFO - Capturing the Name of the product after adding it to the wishlist. 
+2022-05-02 20:55:24,230 - demoOpencart -INFO - WishList test passed
+2022-05-02 20:55:36,008 - demoOpencart -INFO - Before filter capture the prices
+2022-05-02 20:55:36,157 - demoOpencart -INFO - filter the price from dropdown
+2022-05-02 20:55:37,651 - demoOpencart -INFO - After filter capture the prices
+2022-05-02 20:55:37,759 - demoOpencart -INFO -  Sorting test passed
